@@ -7,6 +7,28 @@
 
 -------------------------------------------------------------------
 
+Glide:
+-------------------------------------------------------------------
+
+compile 'acffo.xqx.xlogrecordlib:xLogRecordHelper:1.0.0'
+
+  ---------
+
+
+Maven:
+-------------------------------------------------------------------
+
+<dependency>
+  <groupId>acffo.xqx.xlogrecordlib</groupId>
+  <artifactId>xLogRecordHelper</artifactId>
+  <version>1.0.0</version>
+  <type>pom</type>
+</dependency>
+
+  ---------
+
+  ---------
+
 使用方法：
 
  // 声明
