@@ -58,3 +58,8 @@ compile 'acffo.xqx.xlogrecordlib:xLogRecordHelper:1.0.0'
 ## // 结束将日志写入文件
  
  xLogRecordHelper.stop();
+
+
+
+
+ [我的博客: 听着music睡](http://www.cnblogs.com/xqxacm/)
